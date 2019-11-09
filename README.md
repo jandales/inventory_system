@@ -1,17 +1,24 @@
 # Inventory system
+
   Unfinished project
 
 # Modules 
-  Inventory
-  Recieving
-  Purchasing
+
+  Inventory</br>
+  Recieving</br>
+  Purchasing</br>
   Sales
 
 # Tools
-  PHP
-  JQUERY
-  Bootstrap Framework
-  Ajax
+
+  PHP</br>
+  JQUERY</br>
+  Bootstrap Framework</br>
+  Ajax</br>
+
+# Database
+
+  Mysql
 
 
 
