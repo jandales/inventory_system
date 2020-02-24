@@ -47,6 +47,12 @@
 
 		}
 
+                
+function validatepassword($username,$password){
+
+
+}
+
 		
 
 
